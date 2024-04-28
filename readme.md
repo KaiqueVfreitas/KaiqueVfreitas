@@ -1,4 +1,4 @@
-<div align="center" font-size="22px">
+<div align="center" font-size="39px">
   <h1>Prazer, Kaique Vieira! 👋</h1>
 </div>
 

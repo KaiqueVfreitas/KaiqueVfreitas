@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 font-size="40px">Prazer, Kaique Vieira! 👋</h1>
+  <h1>Prazer, Kaique Vieira! 👋</h1>
 </div>
 
 

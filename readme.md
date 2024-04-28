@@ -1,57 +1,66 @@
 <div align="center">
-  <h1>Prazer, Kaique Vieira! 👋</h1>
+  <img src="https://komarev.com/ghpvc/?username=kaiquevfreitas&color=yellow" alt="Profile views" height="20"/> 
+  <h1>Prazer, Kaique Vieira<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 </div>
-
 
 <h2>💁🏻‍♂️Sobre Mim</h2>
 <p>
 Olá! Me chamo Kaique Vieira, tenho 17 anos e sou estudante de desenvolvimento de sistemas na ETEC SP. Desde 2018, venho explorando o mundo da programação e já passei por cursos incríveis, como o Curso em Vídeo, OneBitCode, Senai e CC50. Estou ansioso para encontrar um projeto ou oportunidade de emprego para colocar em prática todo o conhecimento que adquiri! 💻
 </p>
 
-<h2>Sistemas operacionais que usei:</h2>
+<h2>👨🏻‍💻Sistemas operacionais que usei:</h2>
+<div display="flex">
+<img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+<img align="center" alt="Windows 10" src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img align="center" alt="Windows 7" src="https://img.shields.io/badge/Windows_7-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div>
 <h2>🛠️IDEs que Utilizei</h2> 
-
-![Eclipse](https://media.giphy.com/media/gM5qFksULw54NMWyry/source.gif)
-![PyCharm](https://media.giphy.com/media/ZFTBWYYp6iXBXvboWl/source.gif)
-![TinkerCard](https://media.giphy.com/media/JqDKSyi0Mk19U/source.gif)
-![VSCode](https://media.giphy.com/media/IdyAQJVN2kau2/source.gif)
-![Visual Studio 2022](https://media.giphy.com/media/eH53oExqfFwIE/source.gif)
-![Android Studio](https://media.giphy.com/media/fHlZL3CiurH9i/source.gif)
-
-
+<div display="flex">
+<img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+<img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+<img align="center" alt="Tinkercad" src="https://img.shields.io/badge/Tinkercad-00979D?style=for-the-badge&logo=tinkercad&logoColor=white">
+<img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img align="center" alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+<img align="center" alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+</div>
 <h2>🚀Linguagens que Aprendi </h2>
-
-![Portugol](https://media.giphy.com/media/3o7TKwq2fVfygj16bC/source.gif)
-![Python](https://media.giphy.com/media/4FQMuOKR6zQRO/source.gif)
-![Java](https://media.giphy.com/media/Y2HuZHyMXlVFdsLNeC/source.gif)
-![HTML](https://media.giphy.com/media/XHpmVJyAVkWPHHkfjf/source.gif)
-![CSS](https://media.giphy.com/media/l3vRbFIU05gZiXwvW/source.gif)
-![Javascript](https://media.giphy.com/media/l41YfMkXVtK7zNfFC/source.gif)
-![Typescript](https://media.giphy.com/media/VbZzWsvf6h2M8k2w3b/source.gif)
-![MongoDB](https://media.giphy.com/media/iGpHsHUwGy8LbVILhV/source.gif)
-![MySQL](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif)
-![PHP](https://media.giphy.com/media/4NpMT83YO9ViE/source.gif)
-![C#](https://media.giphy.com/media/ND6xkVPaj8tHO/source.gif)
-![C++](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif)
-![Ruby](https://media.giphy.com/media/l2R01hJqzoc8eN9As/source.gif)
-
+<div display="flex">
+<img align="center" alt="Portugol" src="https://img.shields.io/badge/Portugol-00A300?style=for-the-badge">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white">
+<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+</div>
 <h2>📚Outras Tecnologias</h2>
-
-![Trello](https://media.giphy.com/media/iFadJthHkSqPugMEm5/source.gif)
-![Postman](https://media.giphy.com/media/VeTx0ezOSmGNx1axgD/source.gif)
-![Node.js](https://media.giphy.com/media/kdFc8fubgS31b8DsVu/source.gif)
-![Git](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/source.gif)
-![Next.js](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif)
-![Bootstrap](https://media.giphy.com/media/LoqQKwv9R6xc6/source.gif)
-![ASP.NET](https://media.giphy.com/media/VhS3uz5dJyZFe/source.gif)
-![Bulma](https://media.giphy.com/media/l3nSbC6LfX0bARZdu/source.gif)
-![Pacote Office](https://media.giphy.com/media/3o7TKwq2fVfygj16bC/source.gif)
-![React](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif)
-![Azure-AI](https://media.giphy.com/media/Y1h7kM2ZuLZn4/source.gif)
-
-  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>ENTRE EM CONTATO<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/></h2>
-- [Linkedin](#)
-- [WhatsApp](#)
-- [E-mail](#)
-- [Telegram](#)
-
+<div display="flex">
+<img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+<img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="center" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+<img align="center" alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white">
+<img align="center" alt="Pacote Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="Azure AI" src="https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+</div>
+<div align="center">
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/>
+<h2>ENTRE EM CONTATO</h2>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</div>

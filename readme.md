@@ -4,9 +4,9 @@
 
 
 <h2>💁🏻‍♂️Sobre Mim</h2>
-
+<p>
 Olá! Me chamo Kaique Vieira, tenho 17 anos e sou estudante de desenvolvimento de sistemas na ETEC SP. Desde 2018, venho explorando o mundo da programação e já passei por cursos incríveis, como o Curso em Vídeo, OneBitCode, Senai e CC50. Estou ansioso para encontrar um projeto ou oportunidade de emprego para colocar em prática todo o conhecimento que adquiri! 💻
-
+</p>
 <h2>🛠️IDEs que Utilizei</h2> 
 
 ![Eclipse](https://media.giphy.com/media/gM5qFksULw54NMWyry/source.gif)

@@ -7,6 +7,8 @@
 <p>
 Olá! Me chamo Kaique Vieira, tenho 17 anos e sou estudante de desenvolvimento de sistemas na ETEC SP. Desde 2018, venho explorando o mundo da programação e já passei por cursos incríveis, como o Curso em Vídeo, OneBitCode, Senai e CC50. Estou ansioso para encontrar um projeto ou oportunidade de emprego para colocar em prática todo o conhecimento que adquiri! 💻
 </p>
+
+<h2>Sistemas operacionais que usei:</h2>
 <h2>🛠️IDEs que Utilizei</h2> 
 
 ![Eclipse](https://media.giphy.com/media/gM5qFksULw54NMWyry/source.gif)
@@ -47,7 +49,7 @@ Olá! Me chamo Kaique Vieira, tenho 17 anos e sou estudante de desenvolvimento d
 ![React](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/source.gif)
 ![Azure-AI](https://media.giphy.com/media/Y1h7kM2ZuLZn4/source.gif)
 
-<h2>🌐Conecte-se Comigo</h2>
+  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>ENTRE EM CONTATO<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/></h2>
 - [Linkedin](#)
 - [WhatsApp](#)
 - [E-mail](#)

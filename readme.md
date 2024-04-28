@@ -3,11 +3,11 @@
 </div>
 
 
-## Sobre Mim
+💁🏻‍♂️Sobre Mim
 
 Olá! Me chamo Kaique Vieira, tenho 17 anos e sou estudante de desenvolvimento de sistemas na ETEC SP. Desde 2018, venho explorando o mundo da programação e já passei por cursos incríveis, como o Curso em Vídeo, OneBitCode, Senai e CC50. Estou ansioso para encontrar um projeto ou oportunidade de emprego para colocar em prática todo o conhecimento que adquiri! 💻
 
-## IDEs que Utilizei 🛠️
+🛠️IDEs que Utilizei 
 
 ![Eclipse](https://media.giphy.com/media/gM5qFksULw54NMWyry/source.gif)
 ![PyCharm](https://media.giphy.com/media/ZFTBWYYp6iXBXvboWl/source.gif)
@@ -16,7 +16,7 @@ Olá! Me chamo Kaique Vieira, tenho 17 anos e sou estudante de desenvolvimento d
 ![Visual Studio 2022](https://media.giphy.com/media/eH53oExqfFwIE/source.gif)
 ![Android Studio](https://media.giphy.com/media/fHlZL3CiurH9i/source.gif)
 
-## Linguagens que Aprendi 🚀
+🚀Linguagens que Aprendi 
 
 ![Portugol](https://media.giphy.com/media/3o7TKwq2fVfygj16bC/source.gif)
 ![Python](https://media.giphy.com/media/4FQMuOKR6zQRO/source.gif)

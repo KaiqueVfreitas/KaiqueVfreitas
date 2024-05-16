@@ -26,20 +26,34 @@ Olá! Me chamo Kaique Vieira, tenho 17 anos e sou estudante de desenvolvimento d
 </div>
 <h2>🚀Linguagens que Aprendi </h2>
 <div display="flex">
-<img align="center" alt="Portugol" src="https://img.shields.io/badge/Portugol-00A300?style=for-the-badge">
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+<h1>Front-End</h1>
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
+<img align="center" alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white">
+
+
+
+
+
+<h1>Back-End</h1>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white">
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+
+<h1>Banco de dados</h1>
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white">
+<img align="center" alt="Pacote Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img align="center" alt="Azure AI" src="https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+
 </div>
 <h2>📚Outras Tecnologias</h2>
 <div display="flex">
@@ -49,12 +63,8 @@ Olá! Me chamo Kaique Vieira, tenho 17 anos e sou estudante de desenvolvimento d
 <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
-<img align="center" alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white">
-<img align="center" alt="Pacote Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="Azure AI" src="https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+
 </div>
 <div align="center">
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"/>

@@ -8,14 +8,14 @@
 Olá! Me chamo Kaique Vieira, tenho 17 anos e sou estudante de desenvolvimento de sistemas na ETEC SP. Desde 2018, venho explorando o mundo da programação e já passei por cursos incríveis, como o Curso em Vídeo, OneBitCode, Senai e CC50. Estou ansioso para encontrar um projeto ou oportunidade de emprego para colocar em prática todo o conhecimento que adquiri! 💻
 </p>
 
-<h2>👨🏻‍💻Sistemas operacionais que usei:</h2>
+<h2>👨🏻‍💻Sistemas operacionais:</h2>
 <div display="flex">
 <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <img align="center" alt="Windows 10" src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img align="center" alt="Windows 7" src="https://img.shields.io/badge/Windows_7-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
-<h2>🛠️IDEs que Utilizei</h2> 
+<h2>🛠️IDEs:</h2> 
 <div display="flex">
 <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
@@ -24,7 +24,7 @@ Olá! Me chamo Kaique Vieira, tenho 17 anos e sou estudante de desenvolvimento d
 <img align="center" alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img align="center" alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 </div>
-<h2>🚀Tecnologias que Aprendi </h2>
+<h2>🚀Tecnologias: </h2>
 <div display="flex">
 <h3>🌐Front-End</h3>
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

@@ -5,7 +5,7 @@
 
 <h2>💁🏻‍♂️Sobre Mim</h2>
 <p>
-Olá! Me chamo Kaique Vieira, tenho 17 anos (18 anos, fev/2025) e sou formado em desenvolvimento de sistemas na ETEC SP, Análise de dados na Hashtag Treinamentos, certificado pela microsoft em Ciência de Dados e Engenharia de IA. Desde 2018, venho explorando o mundo da tecnologia e já passei por cursos diversos, como o Curso em Vídeo Java, Java POO, Git e GitHub, Python; OneBitCode Fullstack Web, Senai Azure AI-900 e  Havard CC50. Estou ansioso para encontrar um projeto ou oportunidade de emprego para colocar em prática todo o conhecimento que adquiri! 💻
+Olá! Me chamo Kaique Vieira, tenho 17 anos (18 anos, fev/2025) e sou formado em desenvolvimento de sistemas na ETEC SP, Análise de dados na Hashtag Treinamentos, certificado pela microsoft em Ciência de Dados e Engenharia de IA. Desde 2018, venho explorando o mundo da tecnologia e já passei por cursos diversos, como o Curso em Vídeo Java, Java POO, Git e GitHub, Python; OneBitCode Fullstack Web; Senai Azure AI-900 e Havard CC50. Estou ansioso para encontrar um projeto ou oportunidade de emprego para colocar em prática todo o conhecimento que adquiri! 💻
 </p>
 
 <h2>👨🏻‍💻Sistemas operacionais:</h2>

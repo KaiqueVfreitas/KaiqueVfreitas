@@ -14,6 +14,7 @@ Olá! Me chamo Kaique Vieira, tenho 17 anos (18 anos, fev/2025) e sou formado em
 <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <img align="center" alt="Windows 10" src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img align="center" alt="Windows 7" src="https://img.shields.io/badge/Windows_7-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img align="center" alt="Windows 11" src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 <h2>🛠️IDEs:</h2> 
 <div display="flex">
@@ -33,6 +34,7 @@ Olá! Me chamo Kaique Vieira, tenho 17 anos (18 anos, fev/2025) e sou formado em
 <img align="center" alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white">
 <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
 
 <h3>💻Back-End</h3>
@@ -54,12 +56,15 @@ Olá! Me chamo Kaique Vieira, tenho 17 anos (18 anos, fev/2025) e sou formado em
 <img align="center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 
-<h3>🤖Inteligência artificial</h3>
+<h3>🤖Inteligência artificial e Cloud Computer</h3>
 <img align="center" alt="Azure AI" src="https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+
 
 </div>
 <h2>📚Outras Tecnologias</h2>
 <div display="flex">
+<img align="center" alt="VBA" src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white">
 <img align="center" alt="Pacote Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
@@ -80,5 +85,10 @@ Olá! Me chamo Kaique Vieira, tenho 17 anos (18 anos, fev/2025) e sou formado em
 </a>
   <a href="https://t.me/kaiquevfreitas">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</div>
+<div align="center">
+  <a href="https://kaiquevfreitas.github.io/Site_Portifolio/?fbclid=PAZXh0bgNhZW0CMTEAAaZZDu_GNUYlV837R7nRQ6Pib-0SdUjhV41gsEMxUcD96DDXEykO1E7Q-NE_aem_q5P2fDPM8jjms5OhlSo1rA" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse_meu_site-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acesse meu site">
   </a>
 </div>

@@ -4,8 +4,38 @@
 </div>
 
 <h2>💁🏻‍♂️Sobre Mim</h2>
+<p>Tenho 18 anos e estudo TI desde 2018. Com experiência na WEB entre 2021 e 2023. Focando em ampliar meus conhecimentos em IA, Cloud e Data.</p>
 <p>
-Olá! Me chamo Kaique Vieira, tenho 17 anos (18 anos, fev/2025) e sou formado em desenvolvimento de sistemas na ETEC SP, Análise de dados na Hashtag Treinamentos, certificado pela microsoft em Ciência de Dados e Engenharia de IA. Desde 2018, venho explorando o mundo da tecnologia e já passei por cursos diversos, como o Curso em Vídeo Java, Java POO, Git e GitHub, Python; OneBitCode Fullstack Web; Senai Azure AI-900 e Havard CC50. Estou ansioso para encontrar um projeto ou oportunidade de emprego para colocar em prática todo o conhecimento que adquiri! 💻
+<h2>🎓Formação</h2>
+<ul>
+  <li><strong>Desenvolvimento de Sistemas</strong> - ETEC SP (Conclusão: Dezembro/2024)</li>
+  <li><strong>Análise de Dados</strong> - Hashtag Treinamentos (Conclusão: Março/2025)</li>
+  <li><strong>Programação Fullstack WEB</strong> - OneBitCode (Concluído: Dezembro/2022)</li>
+</ul>
+
+<h2>🏅Certificações</h2>
+<ul>
+  <li><strong>Microsoft:</strong>
+    <ul>
+      <li>Ciência de Dados e Engenharia de IA (Conclusão: Dezembro/2024)</li>
+      <li>Engenharia de IA (Conclusão: Dezembro/2024)</li>
+      <li>Azure AI-900 (Concluído: Setembro/2023)</li>
+    </ul>
+  </li>
+  <li><strong>OneBitCode:</strong>
+    <ul>
+      <li>Ruby On Rails  (Concluído: Dezembro/2022)</li>
+      <li>Python (Concluído: Dezembro/2022)</li>
+    </ul>
+  </li>
+  <li><strong>Hashtag Treinamentos:</strong>
+    <ul>
+      <li>AWS (Concluído: Março/2025)</li>
+      <li>VBA (Concluído: Março/2025)</li>
+    </ul>
+  </li>
+</ul>
+
 </p>
 
 <h2>👨🏻‍💻Sistemas operacionais:</h2>
@@ -52,7 +82,7 @@ Olá! Me chamo Kaique Vieira, tenho 17 anos (18 anos, fev/2025) e sou formado em
 <h3>💾Banco de dados</h3>
 <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white">
+<img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL Server-003B57?style=for-the-badge&logo=sql&logoColor=white">
 <img align="center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 

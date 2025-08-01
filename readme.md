@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaiquevfreitas&color=yellow" alt="Profile views" height="20"/> 
   <h1>Prazer, Kaique Vieira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
-  <p><strong>Analista de Sistemas & Testes | Desenvolvedor Fullstack | Entusiasta de IA & Cloud</strong></p>
+  <p><strong>Analista de Sistemas & Testes | Desenvolvedor Fullstack | Entusiasta de IA & Redes/Cloud</strong></p>
 </div>
 
 ---
@@ -26,6 +26,15 @@ Estou praticando e evoluindo no uso de IA, redes, cloud e segurança da informa�
 - Microsoft Associate Azure AI-900 (Set/2027 - Credenciais: 90088427)
 - Microsoft Associate Azure AZ-900 (Set/2027 - Credenciais: 90088427)
 
+---
+
+## 🌍 Idiomas
+
+- 🇧🇷 Português: Nativo  
+- 🇺🇸 Inglês: A2 (Cambridge)  
+- 🇪🇸 Espanhol: A2 (Instituto Cervantes)
+
+---
 
 ---
 
@@ -88,16 +97,6 @@ Automatização de NFS-e usando SOAP, PHP, MongoDB, Electron e React. Projetos c
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EC866?style=for-the-badge&logo=playwright&logoColor=white)
-
----
-
-## 🌍 Idiomas
-
-- 🇧🇷 Português: Nativo  
-- 🇺🇸 Inglês: A2 (Cambridge)  
-- 🇪🇸 Espanhol: A2 (Instituto Cervantes)
-
----
 
 ## 🔗 Contato
 
